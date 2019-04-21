@@ -1,0 +1,11 @@
+from odoo import models,fields,api
+
+
+class Test1(models.Model):
+
+    _name="odoo12.test1"
+    _description="mypscloudTest1"
+    
+    name= fields.Char(string='名称'）
+    code = fields.Char(string="编码"）
+    
