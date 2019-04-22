@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <data>
+
+        <!-- Top menu item -->
+        <menuitem
+            id="menu_test_version01"
+            name="TEST"
+            sequence="75"/>
+        <!--web_icon="hr,static/description/icon.png"-->
+    </data>
+</odoo>
